@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "https://dashboard.heroku.com/apps/wpoalive";
+        return "https://wpoalive.herokuapp.com/";
     }
 }
